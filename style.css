@@ -282,16 +282,18 @@ img {
   padding-top: 60px;
   font-size: 1.2rem;
   font-weight: 200;
+  margin-bottom: 1.5rem;
 }
 
 .input {
   display: inline-grid;
   align-items: center;
-  grid-template-columns: 50% 40%;
+  grid-template-columns: 50% 50%;
+  margin-left: 3.5rem;
 }
 
 .input input {
-  width: 600px;
+  width: 500px;
   height: 3rem;
 }
 
